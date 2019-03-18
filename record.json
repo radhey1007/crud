@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "person_name": "ABC",
+      "business_name": "json-server",
+      "business_gst_number": "typicode"
+    },
+    {
+      "person_name": "test",
+      "business_name": "test",
+      "business_gst_number": "test",
+      "id": 2
+    },
+    {
+      "person_name": "Radhey",
+      "business_name": "STPL",
+      "business_gst_number": "RSV321",
+      "id": 3
+    },
+    {
+      "person_name": "r",
+      "business_name": "d",
+      "business_gst_number": "d",
+      "id": 4
+    },
+    {
+      "person_name": "f",
+      "business_name": "f",
+      "business_gst_number": "f",
+      "id": 5
+    },
+    {
+      "person_name": "Akash",
+      "business_name": "STPL",
+      "business_gst_number": "STPL-656",
+      "id": 6
+    }
+  ]
+}
